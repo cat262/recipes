@@ -5,6 +5,3 @@
 * salt
 * cilantro
 * black pepper
-
-## Instructions
-1. Mash avocado

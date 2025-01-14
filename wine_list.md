@@ -1,7 +1,7 @@
-#Whites
+# Whites
 * Chardonnay
 * Riesling
 
-#Reds
+# Reds
 * Cabernet Sauvignon
 * Cabernet Franc
